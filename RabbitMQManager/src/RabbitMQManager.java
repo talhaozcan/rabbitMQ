@@ -6,6 +6,7 @@
  * send/recieve obj
  * to install server : http://www.rabbitmq.com/
  * 
+ * written for my intership at EBA(eba.gov.tr)
  */
 import com.rabbitmq.client.AMQP;
 import com.rabbitmq.client.AMQP.Queue.DeclareOk;
