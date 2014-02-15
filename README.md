@@ -10,3 +10,11 @@ rabbitMQ
  * 
  * written for my intership at EBA(eba.gov.tr)
  */
+
+
+<dependency>
+	<groupId>com.rabbitmq</groupId>
+	<artifactId>rabbitmq-client</artifactId>
+	<version>1.3.0</version>
+</dependency>
+            
